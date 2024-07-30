@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kance!</title>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link rel="icon" type="image/x-icon" href="./media/kance.png">
+</head>
+<style>
+  body {
+    background-color: rgb(45, 45, 63);
+    color: white;
+    font-size: larger;
+  }
+
+  .wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+  }
+
+  .custom-container {
+    width: 80%;
+  }
+
+  #flag {
+    height: 25vh;
+    width: auto;
+  }
+</style>
+
+<body>
+  <div class="wrap">
+    <img id="flag" src="media/japanflag.jpg" alt="Japan Flag">
+    <div class="container custom-container">
+      <h1>Kance!</h1>
+      <h2>さちの辞書</h2>
+      <h3>Please use the handwriting system on your phone!!!</h3>
+      <form id="form">
+        <p>Question Hint: <span id="hint"></span></p>
+        <div class="input-group mb-3">
+          <input type="text" class="form-control" placeholder="Type Your Answer">
+          <button class="btn btn-warning" type="button" id="checkButton">Check</button>
+        </div>
+      </form>
+      <span id="description"></span>
+      <p>Score: <span id="correctAnswer"></span></p>
+      <p>Remaining Question: <span id="remainingQuestion"></span></p>
+    </div>
+    <footer>© Haenuki Sachi 2023</footer>
+  </div>
+  <script type="module" src="index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+</body>
+
+</html>
