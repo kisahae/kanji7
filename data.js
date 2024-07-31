@@ -32,11 +32,35 @@ export let kanji = [
     answer: "邪魔"
   },
   {
-    hint: "消防車",
-    answer: "Fire Truck"
+    hint: "Fire Truck",
+    answer: "消防車"
   },
   {
-    hint: "防ぐ",
-    answer: "Prevent"
+    hint: "Prevent",
+    answer: "防ぐ"
+  },
+  {
+    hint: "Laundry",
+    answer: "洗濯"
+  },
+  {
+    hint: "Enjoyable",
+    answer: "楽しい"
+  },
+  {
+    hint: "Entrance",
+    answer: "入口"
+  },
+  {
+    hint: "Population (Number)",
+    answer: "人口"
+  },
+  {
+    hint: "Private (School etc)",
+    answer: "私立"
+  },
+  {
+    hint: "Public (School etc)",
+    answer: "市立"
   }
 ]
