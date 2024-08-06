@@ -62,5 +62,17 @@ export let kanji = [
   {
     hint: "Public (School etc)",
     answer: "市立"
+  },
+  {
+    hint: "Single/Unmarried",
+    answer: "独身"
+  },
+  {
+    hint: "Over",
+    answer: "以上"
+  },
+  {
+    hint: "Under",
+    answer: "以下"
   }
 ]
