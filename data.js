@@ -74,5 +74,41 @@ export let kanji = [
   {
     hint: "Under",
     answer: "以下"
+  },
+  {
+    hint: "Greetings",
+    answer: "挨拶"
+  },
+  {
+    hint: "Television Program",
+    answer: "テレビ番組"
+  },
+  {
+    hint: "Kind",
+    answer: "親切"
+  },
+  {
+    hint: "Complicated",
+    answer: "複雑"
+  },
+  {
+    hint: "Cool/Stylish",
+    answer: "格好いい"
+  },
+  {
+    hint: "Unpleasant",
+    answer: "嫌"
+  },
+  {
+    hint: "Important (For thing)",
+    answer: "大事"
+  },
+  {
+    hint: "Important (For Human/Emotion)",
+    answer: "大切"
+  },
+  {
+    hint: "Commuting to work",
+    answer: "通勤"
   }
 ]
