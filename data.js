@@ -110,5 +110,9 @@ export let kanji = [
   {
     hint: "Commuting to work",
     answer: "通勤"
+  },
+  {
+    hint: "Box",
+    answer: "箱"
   }
 ]
