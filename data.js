@@ -170,5 +170,9 @@ export let kanji = [
   {
     hint: "Administrative Working Place",
     answer: "事務所"
+  },
+  {
+    hint: "Lesson 1",
+    answer: "第一課"
   }
 ]
