@@ -114,5 +114,61 @@ export let kanji = [
   {
     hint: "Box",
     answer: "箱"
+  },
+  {
+    hint: "Researcher",
+    answer: "研究者"
+  },
+  {
+    hint: "Bank Officer",
+    answer: "銀行員"
+  },
+  {
+    hint: "Excuse Me (Polite)",
+    answer: "失礼"
+  },
+  {
+    hint: "Souvenir",
+    answer: "お土産"
+  },
+  {
+    hint: "Sweets",
+    answer: "お菓子"
+  },
+  {
+    hint: "Sweets",
+    answer: "お菓子"
+  },
+  {
+    hint: "Help (Care)",
+    answer: "お世話"
+  },
+  {
+    hint: "Small Notes/Small Dictionary",
+    answer: "手帳"
+  },
+  {
+    hint: "Small Notes/Small Dictionary",
+    answer: "手帳"
+  },
+  {
+    hint: "Selling Area",
+    answer: "売り場"
+  },
+  {
+    hint: "1st Underground Floor",
+    answer: "地下一階"
+  },
+  {
+    hint: "Meeting Room",
+    answer: "会議室"
+  },
+  {
+    hint: "Receptionist Desk/Information Desk",
+    answer: "受付"
+  },
+  {
+    hint: "Administrative Working Place",
+    answer: "事務所"
   }
 ]
