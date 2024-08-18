@@ -148,10 +148,6 @@ export let kanji = [
     answer: "手帳"
   },
   {
-    hint: "Small Notes/Small Dictionary",
-    answer: "手帳"
-  },
-  {
     hint: "Selling Area",
     answer: "売り場"
   },
@@ -178,5 +174,21 @@ export let kanji = [
   {
     hint: "Business Card",
     answer: "名刺"
+  },
+  {
+    hint: "Pencil",
+    answer: "鉛筆"
+  },
+  {
+    hint: "Vending Machine",
+    answer: "自動販売機"
+  },
+  {
+    hint: "Post Office",
+    answer: "郵便局"
+  },
+  {
+    hint: "Art Museum",
+    answer: "美術館"
   }
 ]
