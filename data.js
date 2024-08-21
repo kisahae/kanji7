@@ -136,8 +136,8 @@ export let kanji = [
     answer: "お菓子"
   },
   {
-    hint: "Sweets",
-    answer: "お菓子"
+    hint: "Straight",
+    answer: "真っ直ぐ"
   },
   {
     hint: "Help (Care)",
@@ -190,5 +190,13 @@ export let kanji = [
   {
     hint: "Art Museum",
     answer: "美術館"
+  },
+  {
+    hint: "Class",
+    answer: "授業"
+  },
+  {
+    hint: "Bad Taste",
+    answer: "不味い"
   }
 ]
