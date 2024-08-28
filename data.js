@@ -202,5 +202,37 @@ export let kanji = [
   {
     hint: "Arrive",
     answer: "着く"
+  },
+  {
+    hint: "GreenGrocer or Vegetable Shop",
+    answer: "八百屋"
+  },
+  {
+    hint: "etc.",
+    answer: "など"
+  },
+  {
+    hint: "Gradually",
+    answer: "だんだん"
+  },
+  {
+    hint: "Traffic Light",
+    answer: "信号"
+  },
+  {
+    hint: "Variety",
+    answer: "いろいろな"
+  },
+  {
+    hint: "Submit/Takeout",
+    answer: "出す"
+  },
+  {
+    hint: "Evening (4 to 7 PM)",
+    answer: "夕方"
+  },
+  {
+    hint: "To Become Tired",
+    answer: "疲れる"
   }
 ]
