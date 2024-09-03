@@ -234,5 +234,73 @@ export let kanji = [
   {
     hint: "To Become Tired",
     answer: "疲れる"
+  },
+  {
+    hint: "Train Platform",
+    answer: "番線"
+  },
+  {
+    hint: "Normal Train",
+    answer: "普通"
+  },
+  {
+    hint: "Make Phone Call",
+    answer: "掛かる"
+  },
+  {
+    hint: "Famous/Popular",
+    answer: "有名"
+  },
+  {
+    hint: "Daily Life",
+    answer: "生活"
+  },
+  {
+    hint: "One Cup",
+    answer: "一杯"
+  },
+  {
+    hint: "Unclever",
+    answer: "下手"
+  },
+  {
+    hint: "Promise",
+    answer: "約束"
+  },
+  {
+    hint: "Unfortunately",
+    answer: "産穢ですね"
+  },
+  {
+    hint: "Drawing",
+    answer: "絵"
+  },
+  {
+    hint: "Not At All",
+    answer: "全然"
+  },
+  {
+    hint: "Work (Personal Task)",
+    answer: "用事"
+  },
+  {
+    hint: "Meal",
+    answer: "料理"
+  },
+  {
+    hint: "Understand",
+    answer: "分かる"
+  },
+  {
+    hint: "Stop Place",
+    answer: "のりば"
+  },
+  {
+    hint: "Battery",
+    answer: "電池"
+  },
+  {
+    hint: "Convenient",
+    answer: "便利"
   }
 ]
