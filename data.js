@@ -293,7 +293,7 @@ export let kanji = [
   },
   {
     hint: "Stop Place",
-    answer: "のりば"
+    answer: "乗り場"
   },
   {
     hint: "Battery",
@@ -302,5 +302,105 @@ export let kanji = [
   {
     hint: "Convenient",
     answer: "便利"
+  },
+  {
+    hint: "Garden",
+    answer: "庭"
+  },
+  {
+    hint: "Ticket",
+    answer: "切符"
+  },
+  {
+    hint: "Private (non-public)",
+    answer: "非公開"
+  },
+  {
+    hint: "Free",
+    answer: "暇"
+  },
+  {
+    hint: "Busy (City), Lively",
+    answer: "賑やか"
+  },
+  {
+    hint: "Busy (City), Lively",
+    answer: "賑やか"
+  },
+  {
+    hint: "Someone's wife",
+    answer: "奥さん"
+  },
+  {
+    hint: "My Wife (not kana)",
+    answer: "妻"
+  },
+  {
+    hint: "My Husband (not shujin)",
+    answer: "夫"
+  },
+  {
+    hint: "Sea mail",
+    answer: "船便"
+  },
+  {
+    hint: "Air mail",
+    answer: "航空便"
+  },
+  {
+    hint: "Cool (weather comfortable)",
+    answer: "涼しい"
+  },
+  {
+    hint: "Festival",
+    answer: "祭り"
+  },
+  {
+    hint: "Spicy",
+    answer: "辛い"
+  },
+  {
+    hint: "cloudy",
+    answer: "曇り"
+  },
+  {
+    hint: "Order",
+    answer: "ご注文"
+  },
+  {
+    hint: "Separate Bill",
+    answer: "別々"
+  },
+  {
+    hint: "To pick up",
+    answer: "迎える"
+  },
+  {
+    hint: "Set menu",
+    answer: "定食"
+  },
+  {
+    hint: "Set menu",
+    answer: "定食"
+  },
+  {
+    hint: "Fishing",
+    answer: "釣り"
+  },
+  {
+    hint: "Address",
+    answer: "住所"
+  },
+  {
+    hint: "Timetable",
+    answer: "時刻表"
+  },
+  {
+    hint: "Documents",
+    answer: "資料"
+  },
+  {
+    hint: "Product",
+    answer: "製品"
   }
 ]
