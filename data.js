@@ -154,5 +154,41 @@ export let kanji = [
   {
     hint: "Useful",
     answer: "やくにたつ"
+  },
+  {
+    hint: "Section Manager",
+    answer: "課長"
+  },
+  {
+    hint: "Section Manager",
+    answer: "課長"
+  },
+  {
+    hint: "Parking",
+    answer: "駐車場"
+  },
+  {
+    hint: "Change the home",
+    answer: "引っ越し"
+  },
+  {
+    hint: "Meaning",
+    answer: "意味"
+  },
+  {
+    hint: "Rural Area",
+    answer: "田舎"
+  },
+  {
+    hint: "Sunny/bright",
+    answer: "晴れる"
+  },
+  {
+    hint: "Broken (for machine)",
+    answer: "故障"
+  },
+  {
+    hint: "Condition",
+    answer: "調子"
   }
 ]
