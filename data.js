@@ -190,5 +190,25 @@ export let kanji = [
   {
     hint: "Condition",
     answer: "調子"
+  },
+  {
+    hint: "Choose",
+    answer: "選ぶ"
+  },
+  {
+    hint: "Postcard",
+    answer: "葉書"
+  },
+  {
+    hint: "Internation Student/Exchange Student",
+    answer: "留学生"
+  },
+  {
+    hint: "Round Object",
+    answer: "何個"
+  },
+  {
+    hint: "A Little",
+    answer: "少ない"
   }
 ]
