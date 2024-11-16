@@ -210,5 +210,13 @@ export let kanji = [
   {
     hint: "A Little",
     answer: "少ない"
+  },
+  {
+    hint: "Wall",
+    answer: "壁"
+  },
+  {
+    hint: "At First",
+    answer: "最初に"
   }
 ]
