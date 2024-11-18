@@ -218,5 +218,25 @@ export let kanji = [
   {
     hint: "At First",
     answer: "最初に"
+  },
+  {
+    hint: "Business Trip",
+    answer: "出張"
+  },
+  {
+    hint: "Fall from",
+    answer: "落ちる"
+  },
+  {
+    hint: "Abroad/Overseas",
+    answer: "海外"
+  },
+  {
+    hint: "Celebration",
+    answer: "お祝い"
+  },
+  {
+    hint: "Grades",
+    answer: "成績"
   }
 ]
