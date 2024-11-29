@@ -12,24 +12,8 @@ export let kanji = [
     answer: "残念"
   },
   {
-    hint: "Sea mail",
-    answer: "船便"
-  },
-  {
-    hint: "Air mail",
-    answer: "航空便"
-  },
-  {
     hint: "Battery",
     answer: "電池"
-  },
-  {
-    hint: "Cool",
-    answer: "涼しい"
-  },
-  {
-    hint: "Festival",
-    answer: "お祭り"
   },
   {
     hint: "Cloudy",
@@ -108,11 +92,11 @@ export let kanji = [
     answer: "熱"
   },
   {
-    hint: "Certificate",
+    hint: "Insurance Certificate",
     answer: "保険証"
   },
   {
-    hint: "Getting of a vehicle",
+    hint: "Getting off a vehicle",
     answer: "降りる"
   },
   {
@@ -120,11 +104,11 @@ export let kanji = [
     answer: "背"
   },
   {
-    hint: "Weight",
+    hint: "Weight (for Human)",
     answer: "体重"
   },
   {
-    hint: "Weight (for Human)",
+    hint: "Weight",
     answer: "重さ"
   },
   {
@@ -154,10 +138,6 @@ export let kanji = [
   {
     hint: "Useful",
     answer: "やくにたつ"
-  },
-  {
-    hint: "Section Manager",
-    answer: "課長"
   },
   {
     hint: "Section Manager",
@@ -238,5 +218,25 @@ export let kanji = [
   {
     hint: "Grades",
     answer: "成績"
+  },
+  {
+    hint: "To Attend",
+    answer: "参加する"
+  },
+  {
+    hint: "On Time",
+    answer: "間に合う"
+  },
+  {
+    hint: "Bottle",
+    answer: "瓶"
+  },
+  {
+    hint: "Can (Kaleng)",
+    answer: "缶"
+  },
+  {
+    hint: "Place to put something",
+    answer: "置き場"
   }
 ]
